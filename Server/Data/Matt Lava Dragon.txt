@@ -1,0 +1,9 @@
+spawn =	6593	3181	3811	0	1	23	240	150	Lava Dragon
+spawn =	6593	3191	3809	0	1	23	240	150	Lava Dragon
+spawn =	6593	3196	3818	0	1	23	240	150	Lava Dragon
+spawn =	6593	3191	3830	0	1	23	240	150	Lava Dragon
+spawn =	6593	3203	3833	0	1	23	240	150	Lava Dragon
+spawn =	6593	3209	3840	0	1	23	240	150	Lava Dragon
+spawn =	6593	3198	3847	0	1	23	240	150	Lava Dragon
+spawn =	6593	3214	3818	0	1	23	240	150	Lava Dragon
+spawn =	6593	3221	3829	0	1	23	240	150	Lava Dragon
