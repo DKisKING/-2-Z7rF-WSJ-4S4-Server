@@ -59,7 +59,7 @@ import osv.world.ShopHandler;
 import osv.world.objects.GlobalObjects;
 
 /**
- * The main class needed to start the server.
+ * The main class needed to start the server...
  * 
  * @author Sanity
  * @author Graham
